@@ -29,6 +29,7 @@ http.request
  ├── llm.call
  └── llm.postprocess
 ```
+Tech Stack Used: Python, FastAPI, Opentelemetry, langchain
 
 ### Read more
 This project was inspired by / based on this great article:
